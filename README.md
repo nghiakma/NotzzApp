@@ -1,3 +1,6 @@
+# Notzz App
+**Notzz App** is a simple note-taking 📝 Android application built to describe the use of Modern Android development tools.
+
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
